@@ -1,1 +1,2 @@
-# pratice_flutter
+# Flutter
+first steps to learn flutter 
